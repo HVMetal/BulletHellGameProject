@@ -1,0 +1,3 @@
+A custom bullet hell engine developed in Java, which began as a university course project. The engine implements a code-based level editor built around the Command design pattern, enemy customization through movement, attack patterns, and visual components or decorators, as well as support for custom code-based extensions. More complex movement patterns can be created by chaining or combining simpler movement patterns, or by using decorators to add shared behaviours (such as making bullets ricochet off the edges of the screen).
+
+Note: sound effects were omitted from the public repository, as they originated from third-party games.
